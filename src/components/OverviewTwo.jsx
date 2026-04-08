@@ -8,7 +8,7 @@ const OverviewTwo = () => {
           <div className='col-12'>
             <div className='ff-overview-inner'>
               <div className='thumb'>
-                <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20caring%20therapist%20smiling%20while%20talking%20to%20a%20teenager%20in%20a%20cozy%20office%20setting%20mental%20health%20support%20professional%20photography&image_size=landscape_16_9' alt='Image_inner' />
+                <img src='https://images.unsplash.com/photo-1544027993-37dbfe43562a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' alt='Image_inner' />
                 <div className='icon'>
                   <i className='icon-support-heart' />
                 </div>

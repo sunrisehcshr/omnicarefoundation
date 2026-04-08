@@ -5,7 +5,7 @@ const BannerFive = () => {
     <section
       className='banner-five commit'
       style={{
-        backgroundImage: "url(https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20warm%20inviting%20image%20of%20a%20diverse%20group%20of%20people%20sitting%20together%20in%20a%20community%20circle%20supporting%20each%20other%20mental%20health%20awareness%20professional%20photography%20soft%20lighting%204k&image_size=landscape_16_9)",
+        backgroundImage: "url(https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
       }}
     >
       <div className='container'>

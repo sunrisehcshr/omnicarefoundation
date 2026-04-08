@@ -28,7 +28,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20friendly%20male%20therapist%20smiling%20warmly&image_size=portrait_4_3' alt='Image_inner' />
+                    <img src='https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -79,7 +79,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20welcoming%20female%20social%20worker%20smiling&image_size=portrait_4_3' alt='Image_inner' />
+                    <img src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -130,7 +130,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20compassionate%20non-binary%20counselor%20smiling&image_size=portrait_4_3' alt='Image_inner' />
+                    <img src='https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -181,7 +181,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20kind%20male%20psychologist%20smiling&image_size=portrait_4_3' alt='Image_inner' />
+                    <img src='https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
