@@ -22,8 +22,8 @@ import AOSWrap from "@/helper/AOSWrap";
 import CustomCursor from "@/helper/CustomCursor";
 
 export const metadata = {
-  title: "Charifund | Nonprofit & Fundraising Charity NEXT JS Template",
-  description: "Nonprofit & Fundraising Charity NEXT JS Template.",
+  title: "Omni Cares | Accessible Mental Health Support",
+  description: "Providing accessible mental health programs and crisis resources for children, adults, LGBTQ+ individuals, and immigrants.",
 };
 
 const page = () => {

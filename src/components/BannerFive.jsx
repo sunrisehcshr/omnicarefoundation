@@ -12,12 +12,12 @@ const BannerFive = () => {
         <div className='row'>
           <div className='col-12'>
             <div className='banner-five__content'>
-              <span className='text-xl sub-title'>Mental Health & Community Support</span>
+              <span className='text-xl sub-title'>For anyone seeking mental wellness.</span>
               <h1 className='title-animation_inner fw-7'>
-                Welcome to <span className='bottom-line'>Omni Cares</span>
+                Accessible Mental Health Care. <br/> <span className='bottom-line'>Without the financial barrier.</span>
               </h1>
-              <p>
-                Providing accessible mental health programs and crisis resources for children, adults, LGBTQ+ individuals, immigrants, and the general public since 2015.
+              <p style={{ maxWidth: '600px', fontSize: '18px', lineHeight: '1.6' }}>
+                Since 2015, Omni Cares has provided subsidized therapy and crisis support to children, adults, LGBTQ+ individuals, and immigrants. Because healing shouldn't be a luxury.
               </p>
               <div className='mt-40'>
                 <Link
@@ -35,8 +35,8 @@ const BannerFive = () => {
                     <i className='icon-donation' />
                   </div>
                   <div className='content'>
-                    <p className='text-lg fw-7'>501(c)(3) Registered</p>
-                    <p>We ensure full financial transparency and annual reporting.</p>
+                    <p className='text-lg fw-7'>Registered 501(c)(3)</p>
+                    <p>100% financial transparency with annual reports.</p>
                   </div>
                 </div>
                 <span className='divider d-none d-xxl-block' />
@@ -45,8 +45,8 @@ const BannerFive = () => {
                     <i className='icon-award' />
                   </div>
                   <div className='content'>
-                    <p className='text-lg fw-7'>Accessible Care</p>
-                    <p>Offering subsidized sliding scale programs for everyone.</p>
+                    <p className='text-lg fw-7'>Sliding Scale Pricing</p>
+                    <p>Pay what you can. Care for everyone.</p>
                   </div>
                 </div>
               </div>

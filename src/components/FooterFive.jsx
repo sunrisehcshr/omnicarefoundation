@@ -49,11 +49,8 @@ const FooterFive = () => {
               data-aos-duration={1000}
             >
               <div className='footer-two__widget-logo'>
-                <Link href='/'>
-                  <img
-                    src='assets/images/logo-two-light.png'
-                    alt='Image_inner'
-                  />
+                <Link href='/' style={{ fontSize: '28px', fontWeight: 'bold', color: '#fff', textDecoration: 'none' }}>
+                  Omni Cares
                 </Link>
               </div>
               <div className='footer-two__widget-content'>

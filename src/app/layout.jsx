@@ -9,8 +9,8 @@ import RouteScrollToTop from "@/helper/RouteScrollToTop";
 import ColorPalate from "@/helper/ColorPalate";
 
 export const metadata = {
-  title: "Charifund | Nonprofit & Fundraising Charity NEXT JS Template",
-  description: "Nonprofit & Fundraising Charity NEXT JS Template.",
+  title: "Omni Cares | Accessible Mental Health Support",
+  description: "Providing accessible mental health programs and crisis resources for children, adults, LGBTQ+ individuals, and immigrants. Registered 501(c)(3) since 2015.",
 };
 
 export default function RootLayout({ children }) {
@@ -22,6 +22,29 @@ export default function RootLayout({ children }) {
           rel="preconnect"
           href="https://fonts.gstatic.com"
           crossOrigin="true"
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Omni Cares",
+              "url": "https://omnicares.org",
+              "logo": "https://omnicares.org/logo.png",
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "267-718-5022",
+                "contactType": "customer service"
+              },
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "182 Bethlehem Pike",
+                "addressLocality": "Colmar",
+                "addressRegion": "PA"
+              }
+            })
+          }}
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&display=swap"

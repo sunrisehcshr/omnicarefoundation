@@ -108,9 +108,9 @@ const HeaderFive = () => {
             <div className='col-12'>
               <div className='main-header__menu-box'>
                 <nav className='navbar p-0'>
-                  <div className='navbar-logo'>
-                    <Link href='/'>
-                      <img src='/assets/images/logo.png' alt='Image_inner' />
+                  <div className='navbar-logo' style={{ display: 'flex', alignItems: 'center' }}>
+                    <Link href='/' style={{ fontSize: '28px', fontWeight: 'bold', color: '#1a1a1a', textDecoration: 'none' }}>
+                      Omni Cares
                     </Link>
                   </div>
 
@@ -601,8 +601,8 @@ const HeaderFive = () => {
         <nav className='mobile-menu__wrapper'>
           <div className='mobile-menu__header nav-fade'>
             <div className='logo'>
-              <Link href='/' aria-label='home page' title='logo'>
-                <img src='/assets/images/logo.png' alt='Image_inner' />
+              <Link href='/' aria-label='home page' title='logo' style={{ fontSize: '24px', fontWeight: 'bold', color: '#1a1a1a', textDecoration: 'none' }}>
+                Omni Cares
               </Link>
             </div>
             <button
