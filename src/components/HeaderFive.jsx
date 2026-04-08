@@ -529,7 +529,7 @@ const HeaderFive = () => {
                       </div>
                       <div className='contact-content'>
                         <p>Call Us Now</p>
-                        <a href='tel:01-793-7938'>(+01)-793-7938 </a>
+                        <a href='tel:2677185022'>267-718-5022 </a>
                       </div>
                     </div>
                   </div>
@@ -539,7 +539,7 @@ const HeaderFive = () => {
                         href='/our-causes'
                         className='btn--primary d-none d-md-flex'
                       >
-                        Check Your Causes
+                        Explore Programs
                       </Link>
                     </div>
                     <button

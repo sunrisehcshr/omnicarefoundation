@@ -27,7 +27,7 @@ const GalleryTwo = () => {
             <div className='col-12 col-xl-6'>
               <div className='thumb-lg'>
                 <img
-                  src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20video%20thumbnail%20showing%20a%20supportive%20mental%20health%20community%20gathering%20professional%20photography&image_size=landscape_16_9'
+                  src='https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
                   alt='Image_inner'
                 />
                 <div className='video-btn-wrapper'>
@@ -45,7 +45,7 @@ const GalleryTwo = () => {
         <div className='left-group'>
           <div className='m-one move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20diverse%20group%20of%20children%20smiling%20together%20mental%20health%20support%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-right'
               data-aos-duration={1000}
@@ -53,7 +53,7 @@ const GalleryTwo = () => {
           </div>
           <div className='m-two move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20caring%20therapist%20listening%20to%20a%20young%20adult%20mental%20health%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-right'
               data-aos-duration={1000}
@@ -61,7 +61,7 @@ const GalleryTwo = () => {
           </div>
           <div className='m-three move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20close-up%20of%20hands%20held%20in%20support%20mental%20health%20care%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-right'
               data-aos-duration={1000}
@@ -71,7 +71,7 @@ const GalleryTwo = () => {
         <div className='right-group'>
           <div className='m-one move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20diverse%20group%20of%20children%20smiling%20together%20mental%20health%20support%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-left'
               data-aos-duration={1000}
@@ -79,7 +79,7 @@ const GalleryTwo = () => {
           </div>
           <div className='m-two move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20caring%20therapist%20listening%20to%20a%20young%20adult%20mental%20health%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-left'
               data-aos-duration={1000}
@@ -87,7 +87,7 @@ const GalleryTwo = () => {
           </div>
           <div className='m-three move-image'>
             <img
-              src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20support%20group%20sitting%20in%20a%20circle%20smiling%20mental%20health%20professional%20photography&image_size=square'
+              src='https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'
               alt='Image_inner'
               data-aos='fade-left'
               data-aos-duration={1000}

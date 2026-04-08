@@ -7,9 +7,9 @@ const ServiceOne = () => {
         <div className='row gutter-30 align-items-center'>
           <div className='col-12 col-md-8 col-xl-7'>
             <div className='section__header mb-0'>
-              <span className='sub-title'>We are always open for children</span>
+              <span className='sub-title'>Support for Everyone</span>
               <h2 className='title-animation_inner mt-0 fw-7 hb text-white'>
-                Our non-profit services you must love
+                Our Specialized Mental Health Services
               </h2>
             </div>
           </div>
@@ -17,11 +17,11 @@ const ServiceOne = () => {
             <div className='text-start text-xl-end'>
               <Link
                 href='/our-causes'
-                aria-label='check causes'
-                title='check causes'
+                aria-label='check programs'
+                title='check programs'
                 className='btn--primary'
               >
-                Check Our Services
+                View All Programs
               </Link>
             </div>
           </div>
@@ -54,7 +54,7 @@ const ServiceOne = () => {
                 </div>
                 <div className='content'>
                   <Link href='/our-causes' aria-label='view details'>
-                    Corporate Gifts donate
+                    Child & Adolescent
                   </Link>
                 </div>
               </div>
@@ -76,17 +76,17 @@ const ServiceOne = () => {
                 </div>
                 <div className='content'>
                   <Link href='/our-causes' aria-label='view details'>
-                    Corporate Gifts donate
+                    Adult Therapy
                   </Link>
                 </div>
               </div>
               <div className='ff-service-three-single ff-service-three-single-alt'>
                 <div className='content mt-0'>
                   <Link href='/our-causes' aria-label='view details'>
-                    Corporate Gifts donate
+                    LGBTQ+ Support
                   </Link>
                   <p className='text-gr mt-10'>
-                    Find information for people with dis
+                    Safe and inclusive mental health care
                   </p>
                   <div className='mt-20'>
                     <Link href='/our-causes' className='arr'>
@@ -113,7 +113,7 @@ const ServiceOne = () => {
                 </div>
                 <div className='content'>
                   <Link href='/our-causes' aria-label='view details'>
-                    Corporate Gifts donate
+                    Immigrants / Refugees
                   </Link>
                 </div>
               </div>
@@ -141,7 +141,7 @@ const ServiceOne = () => {
                 </div>
                 <div className='content'>
                   <Link href='/our-causes' aria-label='view details'>
-                    Corporate Gifts donate
+                    Crisis Support
                   </Link>
                 </div>
               </div>

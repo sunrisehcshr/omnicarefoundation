@@ -5,29 +5,28 @@ const BannerFive = () => {
     <section
       className='banner-five commit'
       style={{
-        backgroundImage: "url(https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
+        backgroundImage: "url(https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80)",
       }}
     >
       <div className='container'>
         <div className='row'>
           <div className='col-12'>
             <div className='banner-five__content'>
-              <span className='text-xl sub-title'>for prevent proverties</span>
+              <span className='text-xl sub-title'>Mental Health & Community Support</span>
               <h1 className='title-animation_inner fw-7'>
-                Support <span className='bottom-line'>Humanity</span>
+                Welcome to <span className='bottom-line'>Omni Cares</span>
               </h1>
               <p>
-                Transmax is the world's driving worldwide coordinations supplier
-                — we uphold industry and exchange the worldwide trade of mercha
+                Providing accessible mental health programs and crisis resources for children, adults, LGBTQ+ individuals, immigrants, and the general public since 2015.
               </p>
               <div className='mt-40'>
                 <Link
                   href='/our-causes'
-                  aria-label='our causes'
-                  title='our causes'
+                  aria-label='our programs'
+                  title='our programs'
                   className='btn--primary'
                 >
-                  Check Our Causes
+                  Explore Our Programs
                 </Link>
               </div>
               <div className='commmit-tab-single mt-40'>
@@ -36,8 +35,8 @@ const BannerFive = () => {
                     <i className='icon-donation' />
                   </div>
                   <div className='content'>
-                    <p className='text-lg fw-7'>Trusted organization</p>
-                    <p>Welcome to our Print 128 company that offers a</p>
+                    <p className='text-lg fw-7'>501(c)(3) Registered</p>
+                    <p>We ensure full financial transparency and annual reporting.</p>
                   </div>
                 </div>
                 <span className='divider d-none d-xxl-block' />
@@ -46,8 +45,8 @@ const BannerFive = () => {
                     <i className='icon-award' />
                   </div>
                   <div className='content'>
-                    <p className='text-lg fw-7'>Awarded services</p>
-                    <p>Welcome to our Print 128 company that offers a</p>
+                    <p className='text-lg fw-7'>Accessible Care</p>
+                    <p>Offering subsidized sliding scale programs for everyone.</p>
                   </div>
                 </div>
               </div>

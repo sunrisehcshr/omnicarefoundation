@@ -86,7 +86,7 @@ const TestimonialFive = () => {
                 <span className='text-xl fw-7'>Robert J. Hare /</span> Graphics
                 Designer
               </p>
-              <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20portrait%20professional%20headshot&image_size=square' alt='Image_inner' />
+              <img src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80' alt='Image_inner' />
             </div>
           </div>
           <div className='swiper-slide'>
@@ -102,7 +102,7 @@ const TestimonialFive = () => {
                 <span className='text-xl fw-7'>Robert J. Hare /</span> Graphics
                 Designer
               </p>
-              <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20portrait%20professional%20headshot&image_size=square' alt='Image_inner' />
+              <img src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80' alt='Image_inner' />
             </div>
           </div>
           <div className='swiper-slide'>
@@ -118,7 +118,7 @@ const TestimonialFive = () => {
                 <span className='text-xl fw-7'>Robert J. Hare /</span> Graphics
                 Designer
               </p>
-              <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20portrait%20professional%20headshot&image_size=square' alt='Image_inner' />
+              <img src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80' alt='Image_inner' />
             </div>
           </div>
           <div className='swiper-slide'>
@@ -134,7 +134,7 @@ const TestimonialFive = () => {
                 <span className='text-xl fw-7'>Robert J. Hare /</span> Graphics
                 Designer
               </p>
-              <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20portrait%20professional%20headshot&image_size=square' alt='Image_inner' />
+              <img src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80' alt='Image_inner' />
             </div>
           </div>
         </Slider>

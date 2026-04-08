@@ -21,18 +21,18 @@ const CommitTwo = () => {
                     {({ isVisible }) =>
                       isVisible && (
                         <span className='odometer fw-7'>
-                          <CountUp delay={0} start={0} end={20000} />
+                          <CountUp delay={0} start={0} end={5000} />
                           <span className='prefix fw-7'>+</span>
                         </span>
                       )
                     }
                   </TrackVisibility>
                 </h4>
-                <p className='text-black'>People have donated here</p>
+                <p className='text-black'>People Helped Annually</p>
               </div>
               <div className='vertical-text'>
                 <h5>
-                  We Give <span>Donations</span> to Poor People{" "}
+                  Empowering <span>Mental</span> Health {" "}
                 </h5>
               </div>
             </div>
@@ -41,15 +41,13 @@ const CommitTwo = () => {
             <div className='help-two__content'>
               <div className='section__content'>
                 <span className='sub-title'>
-                  We are always open for children
+                  Serving Our Community Since 2015
                 </span>
                 <h2 className='title-animation_inner mt-0'>
-                  Helping each other can make world better
+                  Accessible Mental Health Support For Everyone
                 </h2>
                 <p className='text-gr-2'>
-                  Volunteering offers opportunities to develop new skills and
-                  gain valuable experience. This can include leadership,
-                  communication, project
+                  Omni Cares is dedicated to providing high-quality, subsidized mental health services to children, adults, LGBTQ+ individuals, and immigrants. We believe that financial barriers should never prevent anyone from getting the care they need.
                 </p>
               </div>
               <div className='help-two__inner cta'>
@@ -60,10 +58,9 @@ const CommitTwo = () => {
                         <i className='icon-make-donation' />
                       </div>
                       <div className='content'>
-                        <h6 className='fw-5'>Start helping them</h6>
+                        <h6 className='fw-5'>Support Our Mission</h6>
                         <p>
-                          Raising awareness about the charity's mission and
-                          cause.
+                          Help us subsidize therapy sessions for those in need.
                         </p>
                       </div>
                     </div>
@@ -73,10 +70,9 @@ const CommitTwo = () => {
                         <i className='icon-support-heart' />
                       </div>
                       <div className='content'>
-                        <h6 className='fw-5'>Make Donations</h6>
+                        <h6 className='fw-5'>Explore Programs</h6>
                         <p>
-                          Raising awareness about the charity's mission and
-                          cause.
+                          Learn more about our specialized community programs.
                         </p>
                       </div>
                     </div>
@@ -84,11 +80,11 @@ const CommitTwo = () => {
                   <div className='cta'>
                     <Link
                       href='/our-causes'
-                      aria-label='check causes'
-                      title='check causes'
+                      aria-label='explore programs'
+                      title='explore programs'
                       className='btn--primary'
                     >
-                      Check Our Causes
+                      Explore Programs
                     </Link>
                   </div>
                 </div>
@@ -102,9 +98,9 @@ const CommitTwo = () => {
                       <i className='icon-star' />
                     </div>
                     <div className='help-card-content'>
-                      <h4>35,734</h4>
-                      <h6>Helped Fund</h6>
-                      <p>Quisque dignissim enim diam</p>
+                      <h4>10+</h4>
+                      <h6>Therapy Programs</h6>
+                      <p>Tailored for diverse communities</p>
                     </div>
                   </div>
                 </div>

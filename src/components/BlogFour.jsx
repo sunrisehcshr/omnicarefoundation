@@ -70,7 +70,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20mental%20health%20awareness%20seminar%20with%20people%20listening%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1540317580384-e5d43867caa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>
@@ -113,7 +113,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20close-up%20of%20someone%20writing%20in%20a%20journal%20for%20mental%20wellness%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>
@@ -156,7 +156,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20community%20support%20group%20outdoors%20in%20nature%20mental%20health%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1529156069898-49953eb1f5bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>
@@ -199,7 +199,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20mental%20health%20awareness%20seminar%20with%20people%20listening%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1540317580384-e5d43867caa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>
@@ -242,7 +242,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20close-up%20of%20someone%20writing%20in%20a%20journal%20for%20mental%20wellness%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>
@@ -285,7 +285,7 @@ const BlogFour = () => {
                       <div className='blog__single-thumb'>
                         <Link href='/blog-details'>
                           <img
-                            src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20community%20support%20group%20outdoors%20in%20nature%20mental%20health%20professional%20photography&image_size=landscape_16_9'
+                            src='https://images.unsplash.com/photo-1529156069898-49953eb1f5bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
                             alt='Image_inner'
                           />
                         </Link>

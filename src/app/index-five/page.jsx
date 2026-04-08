@@ -17,6 +17,7 @@ import TestimonialFive from "@/components/TestimonialFive";
 import TopBarFive from "@/components/TopBarFive";
 import VolunteerOne from "@/components/VolunteerOne";
 import VolunteerTwo from "@/components/VolunteerTwo";
+import CrisisResources from "@/components/CrisisResources";
 import AOSWrap from "@/helper/AOSWrap";
 import CustomCursor from "@/helper/CustomCursor";
 
@@ -40,6 +41,9 @@ const page = () => {
 
         {/* HeaderFive */}
         <HeaderFive />
+
+        {/* CrisisResources */}
+        <CrisisResources />
 
         {/* BannerFive */}
         <BannerFive />

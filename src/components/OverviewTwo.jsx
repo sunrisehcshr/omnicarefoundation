@@ -15,13 +15,13 @@ const OverviewTwo = () => {
               </div>
               <div className='content'>
                 <span className='sub-title'>
-                  We are always open for children
+                  You are not alone
                 </span>
                 <h3 className='fw-6 title-animation_inner'>
-                  Our Goal is to Help Poor People
+                  Need Immediate Help? Access Crisis Resources
                 </h3>
-                <Link href='/become-volunteer'>
-                  Become volunteer
+                <Link href='/contact-us'>
+                  View Crisis Lines
                   <i className='fa-solid fa-arrow-right' />
                 </Link>
               </div>

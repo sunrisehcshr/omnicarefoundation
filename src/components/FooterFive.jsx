@@ -223,24 +223,24 @@ const FooterFive = () => {
                 <ul>
                   <li>
                     <a
-                      href='https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8'
+                      href='#'
                       target='_blank'
                       rel='noreferrer'
                     >
                       <i className='fa-solid fa-location-dot' />
-                      455 West Orchard Street Kings Mountain, NC 280867
+                      182 Bethlehem Pike, Colmar
                     </a>
                   </li>
                   <li>
-                    <a href='tel:2305-587-3407'>
+                    <a href='tel:2677185022'>
                       <i className='fa-solid fa-phone' />
-                      +088 (246) 642-27-10
+                      267-718-5022
                     </a>
                   </li>
                   <li>
-                    <a href='mailto:support@example.com'>
+                    <a href='mailto:info@omnicares.org'>
                       <i className='fa-regular fa-envelope' />
-                      example@email.com
+                      info@omnicares.org
                     </a>
                   </li>
                 </ul>
@@ -256,7 +256,7 @@ const FooterFive = () => {
               <div className='footer-two__copyright-inner text-center text-lg-start'>
                 <p>
                   Copyright © {new Date().getFullYear()}{" "}
-                  <Link href='/'>Charifund</Link>. All rights reserved.
+                  <Link href='/'>Omni Cares</Link>. All rights reserved.
                 </p>
               </div>
             </div>

@@ -11,24 +11,24 @@ const TopBarFive = () => {
                     <ul className='topbar__list justify-content-center justify-content-xxl-start'>
                       <li>
                         <i className='fa-solid fa-comment-dots' /> Helpline:{" "}
-                        <a href='tel:2305-587-3407'>+2(305) 587-3407</a>
+                        <a href='tel:2677185022'>267-718-5022</a>
                       </li>
                       <li>
                         <span className='divider' />
                       </li>
                       <li>
-                        <a href='mailto:example@info.com'>example@info.com</a>
+                        <a href='mailto:info@omnicares.org'>info@omnicares.org</a>
                       </li>
                       <li>
                         <span className='divider' />
                       </li>
                       <li>
                         <a
-                          href='https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8'
+                          href='#'
                           target='_blank'
                           rel='noreferrer'
                         >
-                          54 Berrick St Boston MA 02115
+                          182 Bethlehem Pike, Colmar
                         </a>
                       </li>
                     </ul>
@@ -38,8 +38,7 @@ const TopBarFive = () => {
                   <div className='topbar-five-extra justify-content-end'>
                     <div className='topbar__extra text-center justify-content-center justify-content-xxl-end d-none d-xxl-flex'>
                       <p>
-                        Updates: Delivers Personal Protective Equipments to
-                        North.
+                        Need immediate help? Call 988 or text HOME to 741741.
                       </p>
                     </div>
                     <div className='social'>
