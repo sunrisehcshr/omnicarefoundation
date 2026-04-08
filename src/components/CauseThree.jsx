@@ -71,7 +71,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/eight.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20child%20talking%20with%20a%20friendly%20therapist%20in%20a%20bright%20room%20mental%20health%20support%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>
@@ -125,7 +125,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/nine.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20diverse%20support%20group%20of%20adults%20sitting%20in%20a%20circle%20listening%20attentively%20mental%20health%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Food</Link>
@@ -179,7 +179,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/ten.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20warm%20embrace%20between%20two%20people%20showing%20care%20and%20support%20mental%20health%20awareness%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>
@@ -233,7 +233,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/eight.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20child%20talking%20with%20a%20friendly%20therapist%20in%20a%20bright%20room%20mental%20health%20support%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>
@@ -287,7 +287,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/nine.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20diverse%20support%20group%20of%20adults%20sitting%20in%20a%20circle%20listening%20attentively%20mental%20health%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Food</Link>
@@ -341,7 +341,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/ten.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20warm%20embrace%20between%20two%20people%20showing%20care%20and%20support%20mental%20health%20awareness%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>
@@ -395,7 +395,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/eight.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20child%20talking%20with%20a%20friendly%20therapist%20in%20a%20bright%20room%20mental%20health%20support%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>
@@ -449,7 +449,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/nine.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20diverse%20support%20group%20of%20adults%20sitting%20in%20a%20circle%20listening%20attentively%20mental%20health%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Food</Link>
@@ -503,7 +503,7 @@ const CauseThree = () => {
             <div className='cause__slider-single'>
               <div className='thumb'>
                 <Link href='/cause-details'>
-                  <img src='assets/images/cause/ten.png' alt='Image_inner' />
+                  <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20warm%20embrace%20between%20two%20people%20showing%20care%20and%20support%20mental%20health%20awareness%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
                 </Link>
                 <div className='tag'>
                   <Link href='/our-causes'>Health</Link>

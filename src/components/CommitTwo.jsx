@@ -10,10 +10,10 @@ const CommitTwo = () => {
           <div className='col-12 col-lg-5 col-xl-5'>
             <div className='commit__thumb'>
               <div className='thumb-lg'>
-                <img src='assets/images/commit-thumb.png' alt='Image_inner' />
+                <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20close-up%20of%20diverse%20hands%20held%20together%20in%20support%20and%20unity%20mental%20health%20support%20group%20professional%20photography&image_size=portrait_4_3' alt='Image_inner' />
               </div>
               <div className='thumb-sm'>
-                <img src='assets/images/commit-shape.png' alt='Image_inner' />
+                <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20portrait%20professional%20headshot&image_size=square' alt='Image_inner' />
               </div>
               <div className='commit-count'>
                 <h4>
@@ -96,7 +96,7 @@ const CommitTwo = () => {
                   <div className='help-two__card van-tilt'>
                     <div className='help-card-thumb'>
                       <img
-                        src='assets/images/help/author.png'
+                        src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20smiling%20woman%20therapist%20headshot&image_size=square'
                         alt='Image_inner'
                       />
                       <i className='icon-star' />

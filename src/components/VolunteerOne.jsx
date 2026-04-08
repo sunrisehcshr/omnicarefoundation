@@ -20,7 +20,7 @@ const VolunteerOne = () => {
                 </h2>
               </div>
               <div className='thumb'>
-                <img src='assets/images/ff-two.png' alt='Image_inner' />
+                <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20community%20volunteer%20distributing%20care%20packages%20mental%20health%20support%20professional%20photography&image_size=landscape_4_3' alt='Image_inner' />
               </div>
               <div className='cd-f'>
                 <div className='commmit-tab-single'>

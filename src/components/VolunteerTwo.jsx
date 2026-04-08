@@ -14,7 +14,7 @@ const VolunteerTwo = () => {
               <div
                 className='ff-volunteer__inner text-center text-lg-start'
                 style={{
-                  backgroundImage: "url(/assets/images/volunteer-bg.png)",
+                  backgroundImage: "url(https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20warm%20inviting%20image%20of%20volunteers%20working%20together%20at%20a%20community%20center%20mental%20health%20support%20professional%20photography&image_size=landscape_16_9)",
                 }}
               >
                 <div className='row align-items-center gutter-40'>
@@ -56,7 +56,7 @@ const VolunteerTwo = () => {
                 </div>
                 <div className='th-right'>
                   <img
-                    src='assets/images/ff-testimonial.png'
+                    src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20smiling%20therapist%20or%20volunteer%20portrait%20professional%20headshot&image_size=square'
                     alt='Image_inner'
                   />
                 </div>

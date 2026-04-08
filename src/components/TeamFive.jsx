@@ -28,7 +28,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='assets/images/team/one.png' alt='Image_inner' />
+                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20friendly%20male%20therapist%20smiling%20warmly&image_size=portrait_4_3' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -79,7 +79,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='assets/images/team/two.png' alt='Image_inner' />
+                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20welcoming%20female%20social%20worker%20smiling&image_size=portrait_4_3' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -130,7 +130,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='assets/images/team/three.png' alt='Image_inner' />
+                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20compassionate%20non-binary%20counselor%20smiling&image_size=portrait_4_3' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
@@ -181,7 +181,7 @@ const TeamFive = () => {
               <div className='team__single van-tilt'>
                 <div className='team__single-thumb'>
                   <Link href='/team-details'>
-                    <img src='assets/images/team/four.png' alt='Image_inner' />
+                    <img src='https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20professional%20headshot%20of%20a%20kind%20male%20psychologist%20smiling&image_size=portrait_4_3' alt='Image_inner' />
                   </Link>
                   <div className='team__icons'>
                     <div className='team__single-content__icon'>
